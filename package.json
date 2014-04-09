@@ -1,0 +1,28 @@
+{
+  "name": "Grunt-Task-Runner",
+  "version": "0.0.1",
+  "description": "A simple task runner using grunt to minify css and js files",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies" : {
+    "grunt" : "~0.4.4",
+    "grunt-contrib-jshint" : "*",
+    "jshint-stylish" : "*",
+    "grunt-contrib-compass" : "*",
+    "grunt-contrib-uglify" : "*",
+    "grunt-contrib-cssmin" : "*",
+    "grunt-contrib-watch" : "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokulkrishh/Grunt-Task-Runner"
+  },
+  "author": "gokulkrishh",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/gokulkrishh/Grunt-Task-Runner/issues"
+  },
+  "homepage": "https://github.com/gokulkrishh/Grunt-Task-Runner"
+}
