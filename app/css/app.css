@@ -1,0 +1,10 @@
+.main {
+	width: 100px;
+	.title {
+		text-align: center
+	}
+}
+
+.title {
+	box-shadow: 2px 3px #000;
+}
