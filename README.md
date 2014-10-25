@@ -1,11 +1,11 @@
 Grunt-Task-Runner
 =================
 
-A simple task runner which minifies and lint all css and js code
+A simple task runner which uglify, minify all css, js files.
 
 Installation:
 
-Download this repo and cd into it in the terminal and
+Download this repo and cd into it in the terminal
 
 Type the following in the terminal
 
